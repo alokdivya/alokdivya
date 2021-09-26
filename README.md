@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Currently working on improving my skills.
-📫 Connect at: alokdivyaiitdh@gmail.com
+-  Currently working on improving my skills.
+- 📫 Connect at: alokdivyaiitdh@gmail.com
