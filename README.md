@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Alok Divya 👋</h1>
 
-<img align="right" width = "200px" src="https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/03/AI_Animated.gif">
+<img align="right" width = "600px" src="https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/03/AI_Animated.gif">
 
 --  Currently working on improving my skills.
 - 📫 Connect at: alokdivyaiitdh@gmail.com
