@@ -1,5 +1,6 @@
-### Hi there 👋
+<h1 align="center"> Hi there, I'm Alok Divya 👋</h1>
 
+<img align="right" width = "200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 <!--
 **alokdivya/alokdivya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,14 +34,6 @@ Here are some ideas to get you started:
 <img align="left" alt="GitHub" title="Github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <img align="left" alt="Python" title="Pyhton" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
-
-<img align="left" alt="Cpp" title="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-
-<img align="left" alt="HTML5" title="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="CSS3" title="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <img align="left" alt="MongoDB" title="MongoDB" width="26px" src="https://img.icons8.com/color/452/mongodb.png" />
 
