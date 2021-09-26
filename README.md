@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Alok Divya 👋</h1>
 
-<img align="right" width = "200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
+<!-- <img align="right" width = "200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif"> -->
 <!--
 **alokdivya/alokdivya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
