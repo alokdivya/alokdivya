@@ -26,5 +26,5 @@
 
 <img align="left" alt="MySQL" title="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
-<img align="left" alt="AWS" title="AWS" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngaaa.com%2Fdetail%2F3822384&psig=AOvVaw3UFdx_BSSuw6A9GMC6Nrto&ust=1632794995253000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPiD0bmJnvMCFQAAAAAdAAAAABAJ" />
+<img align="left" alt="AWS" title="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
 <br /><br />
